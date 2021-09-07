@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630204317 source:/home/jason/Odemy/Curso_C/Challenge_FAM/main.c
+	<stdio.h>
+	<stdlib.h>
+

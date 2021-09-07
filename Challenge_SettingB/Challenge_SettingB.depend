@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630458012 source:/home/jason/Odemy/Curso_C/Challenge_SetB/Challenge_SettingB/main.c
+	<stdio.h>
+	<stdlib.h>
+

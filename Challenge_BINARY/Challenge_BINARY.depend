@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630277717 source:/home/jason/Odemy/Curso_C/Challenge_BINARY/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

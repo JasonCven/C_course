@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630090012 source:/home/jason/Odemy/Curso_C/Test/main.c
+	<stdio.h>
+	"other.h"
+
+1630089856 /home/jason/Odemy/Curso_C/Test/other.h
+
+1630089924 source:/home/jason/Odemy/Curso_C/Test/other.c
+	"other.h"
+

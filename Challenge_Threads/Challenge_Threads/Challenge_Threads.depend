@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630975998 source:/home/jason/Odemy/Curso_C/Challenge_Threads/Challenge_Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
